@@ -1,0 +1,59 @@
+<html>  
+    <head>
+        <title>Ultimate</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+    <header> 
+ <a href="main.html">Назад</a> 
+<img src="https://s3-alpha-sig.figma.com/img/5d7e/a7a3/2aa42b576705bf4a5d9c15d30884a292?Expires=1639958400&Signature=INr-mSalxH04TnIWFWjRE7ividD5ECJRuRTOYWq0epDQsSIwlg2DbZ~dLX8g9Xelc9~Wzdq2u3PdVSch3mYdTxbBtyEWf6BJwIWHHNcbCFdIh6yD1JNXTv-lDizlhpFEQ~kGaShm0jL88NIpsRXkODYrPMvjR3OHjU-EEbetrBXJylddkLkIqbtak8rfpxML3WEIg~iDh-FexYk4Po5oA3opTGX0fEqCtdIzMSpFGe1bJy7ZZ9wuWVpJdb6qd3Yq-FasMAgJdhm7vyHRTvbMWyXau16MwKgv5YYsFbBUxIpbUrH2vCxJ0AUSgNtEfmHaTQcwJ8jCqfglWUKtCBVG~w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA">
+<p>Ultimate</p>
+<h3>Корзина</h3>
+    </header>
+
+    <section>
+        <div class="first">
+            <article class="photo">
+                <img src="https://s3-alpha-sig.figma.com/img/251d/1b4a/03895841cd7b1eb4285c5c4dfd193674?Expires=1639958400&Signature=cgtGqG~KUc6Pz1s6DQQu4JwqUkTUe5E2KZyxnpjlDL~DAdQ4ojwoAulDapjNS1Ctcx-gATqzOtWf3GK2E9380igk9EL7pOTECW3qmsLaXLwvMIc8bdrsoaHxLKItjBBsQZZ4uh7AuAlCZXeg-Og5e4-2RBaom8YzQvdQNifPZpdzT4SBYw0SCM2L1ZrA0S6rkzEzacuTug84txQY1nmwDn9-2q7SfdR4y-NXvdZw-NGgsa7FVuhiQrckrxJNaDunIHpwhswflj8OXPh4E~mrIAFruun8G26eZAVuSgOtTkmKQicA17RwJ4ZqRkoby1UI4~SwxYbhguEFsOsniuO-pw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA">
+                <p>Паперони с сыром мацарелла</p>
+                <p>Стоимость: 65грн</p>
+                </article>
+
+                <article class="about">
+                <h3>Пеперони
+эра с сыром</h3>
+                 <h3>Стоимость:65</h3>
+                 <h3>Кол-во:10</h3>
+                </article>
+
+                <article class="order">
+                <h3>Денис</h3>
+                <p>Тел: 0966708969</p>
+                 <a href="">Заказать</a> 
+                </article>
+            </div>
+         <div class="second">
+             <article class="photo">
+                <img src="https://s3-alpha-sig.figma.com/img/8918/730f/85488378f6d2f3f5f9bd431d4cac3d50?Expires=1639958400&Signature=S7aWjU0dxe8F-hY7~NDcLjuT5w8ZJSkKFM7rvDGavDaIehvWG1Any0LjNvhpufbA5QTeuh3JJEwTRd0NBAWHw3tLRIOiXh0iC6777IOebFmihf8azkcVB~nVDtbY-24RdujnhFjju9HmNJCSOKW-Ddhk4LR9wAUBjN~9u5aKcgsC4aO7iozGTWaQPKSNlALr1nTmcjnDT4FReRXyKzPN3v-jAMbvoasYTkLN5cM3hpfV78JTWCGDKZdABfTf4p~XwO6pV16EEq0PdOuUUFiywi-bNNCYgZYLx-sSYTGdCzlxw3NBNpB3GrrRxcmTeNNZCJB1QnanjB6Tif4WQ9t~SA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA">
+                <p>Паперони с сыром итальянским</p>
+                <p>Стоимость: 65грн</p>
+                </article>
+
+                <article class="about">
+                <h3>Пеперони
+Фия с сыром</h3>
+                 <h3>Стоимость:65</h3>
+                 <h3>Кол-во:10</h3>
+                </article>
+                
+                <article class="order">
+                <h3>Денис</h3>
+                <p>Тел: 0966706989</p>
+                 <a href="">Заказать</a> 
+                </article>
+            </div>
+        </section>
+    </body>
+</html>
+    
